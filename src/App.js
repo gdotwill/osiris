@@ -1,5 +1,3 @@
-/* eslint-disable array-callback-return */
-/* eslint-disable no-unused-vars */
 import React, { Component } from 'react';
 
 import Tabs from "./components/Tabs";
