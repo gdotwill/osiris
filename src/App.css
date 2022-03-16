@@ -21,6 +21,12 @@ h3 {
   color: #8fa8ba;
 }
 
+h4 {
+  font-weight: 400;
+  font-size: .875rem;
+  color: steelblue;
+}
+
 .u-content--center {
   margin: 0 auto;
 }
